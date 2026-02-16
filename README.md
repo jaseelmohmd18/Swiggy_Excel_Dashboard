@@ -29,3 +29,5 @@ The dashboard takes sales data exported from Excel or CSV files, typically repre
 -Beautiful, user-friendly design for business insights
 
 6. Screenshot / Demo
+
+https://github.com/jaseelmohmd18/Swiggy_Excel_Dashboard/blob/main/Snapshot%20of%20the%20Dashboard%204.png
