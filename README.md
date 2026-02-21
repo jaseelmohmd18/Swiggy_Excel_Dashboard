@@ -11,8 +11,11 @@ This project walks through building a real-world Excel + Power BI sales dashboar
 3. Tech Stack
 
 -Microsoft Power BI Desktop
+
 -Power Query (M Language) for data transformation
+
 -DAX (Data Analysis Expressions) for metrics and KPIs
+
 -Excel / CSV files as the primary data source
 
 4. Data Source
@@ -22,10 +25,15 @@ The dashboard takes sales data exported from Excel or CSV files, typically repre
 5. Features / Highlights
 
 -End-to-end design of a sales dashboard in Power BI
+
 -Data loading, cleaning, and modeling using Power Query
+
 -Key performance indicators (KPIs) like total sales, order count
+
 -Interactive slicers for filtering by date, category, or region
+
 -Trend charts and visual storytelling for performance analysis 
+
 -Beautiful, user-friendly design for business insights
 
 6. Screenshot / Demo
